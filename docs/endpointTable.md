@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Endpoint reservation table
 nav_order: 2
 description: "Endpoint definitions."
 ---
