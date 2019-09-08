@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Endpoint definitions."
+---
+
 
 Welcome to the ecosystem's endpoint map!
 

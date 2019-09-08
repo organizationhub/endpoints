@@ -1,6 +1,6 @@
-title: Hub's application SDK
-description: Elements on how to build an application
-baseurl: "/sdk" # the subpath of your site, e.g. /blog
+title: Ecosystem's endpoints
+description: Endpoint utilization guide
+baseurl: "/endpoints" # the subpath of your site, e.g. /blog
 url: "https://organizationhub.github.io"
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
