@@ -13,6 +13,6 @@ This page contains the up to date information about existing endpoint reservatio
 {% include_relative endpointTable.md %}
 
 
-If you wish to book a endpoint for yourself, please read more from 
+[Book an endpoint by sending us a pull request][endpoint_booking]
 
-https://github.com/organizationhub/endpoints
+[endpoint_booking]: https://github.com/organizationhub/endpoints
