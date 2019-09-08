@@ -1,2 +1,6 @@
 
 example
+
+
+{% markdown ../README.md %}
+
